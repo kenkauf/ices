@@ -1,0 +1,226 @@
+Default Report,,,
+Last Modified: 2017-04-23 08:10:38 MDT,,,
+,,,
+,,,
+Q1 - What is your age?,,,
+#,Answer,%,Count
+1,18 years old or younger,3.70%,4
+2,19 years old,11.11%,6
+3,20 years old,38.89%,21
+4,21 years old,25.93%,14
+5,22 years old or older,20.37%,16
+,Total,100%,61
+,,,
+Q2 - Are you a student?,,,
+#,Answer,%,Count
+1,Yes,86.79%,46
+2,No,13.21%,7
+,Total,100%,53
+,,,
+"Q4 - Do you use a planner? If so, please specify (if an app, please name it)",,,
+#,Answer,%,Count
+1,No,42.59%,23
+2,"Yes, physical planner",27.78%,15
+3,"Yes, digital/mobile planner (Please specify)",29.63%,16
+,Total,100%,54
+,,,
+"Q4_3_TEXT - Yes, digital/mobile planner (Please specify)",,,
+"Yes, digital/mobile planner (Please specify)",,,
+Google Calendar,,,
+apple calendar ,,,
+iPhone calendar ,,,
+Google Calendar and Google Keep,,,
+Calendar app on iphone,,,
+Trello and google calendar,,,
+MyHomework,,,
+google calendar and minimalist,,,
+MyStudentLife,,,
+Outlook,,,
+Google Calendar,,,
+My Homework App,,,
+Physical and mobile ,,,
+Outlook,,,
+iStudiez Pro (synchs my apple calendar),,,
+MyStudentLife,,,
+,,,
+Q20 - What methods do you use to help remind you,,,
+#,Answer,%,Count
+1,Digital reminders,70.00%,35
+2,Write on hand,4.00%,2
+3,Sticky notes,26.00%,13
+4,Other (list all that apply),18.00%,9
+,Total,100%,50
+,,,
+Other (list all that apply),,,
+Other (list all that apply),,,
+"Lists, apple watch",,,
+Sticky note app on laptop,,,
+Memory,,,
+checklist on not pad on computer,,,
+Digital and notes on paper,,,
+to do list on notepad on laptop,,,
+my mind,,,
+Digital and notes on paper planner ,,,
+"I use the sticky notes app on my computer for daily reminders, to-do lists etc, and I get notifications from iStudiez Pro for my assignments, classes, work, etc.",,,
+,,,
+"Q8 - You're task is to set a digital reminder (a timed alert message). Click the button you believe will set a reminder. If you do not know or are unsure, make your best guess.",,,
+Picture 1,,,
+,,,
+Q9 - How confident are you in your selection?,,,
+#,Answer,%,Count
+1,Extremely confident,7.32%,3
+2,Somewhat confident,48.78%,20
+3,Neither,12.20%,5
+4,Somewhat unconfident,24.39%,10
+5,Extremely unconfident,7.32%,3
+,Total,100%,41
+,,,
+Q10 - How difficult was it to locate the button?,,,
+#,Answer,%,Count
+1,Extremely easy,9.76%,4
+2,Somewhat easy,43.90%,18
+3,Neither,21.95%,9
+4,Somewhat difficult,21.95%,9
+5,Extremely extremely,2.44%,1
+,Total,100%,41
+,,,
+Q11 - Would you change it if you could?,,,
+#,Answer,%,Count
+1,"Yes, if so, how?",30.00%,12
+2,Maybe,37.50%,15
+3,No,32.50%,13
+,Total,100%,40
+,,,
+"Yes, if so, how?",,,
+"Yes, if so, how?",,,
+It doesn't seem like it is a reminder control - the icon is nondescript. It just looks different from what is on the previous page!,,,
+Better display,,,
+make bigger,,,
+looks like I am going to send this to someone else,,,
+More obvious,,,
+Maybe highlight in red the reminder button ,,,
+Make the reminder button a lot more obvious.,,,
+Making the button bigger,,,
+add a bell to the icon,,,
+change the color,,,
+I don't know where it is to even change it,,,
+,,,
+Q12 - Does the current location of the reminder button effectively encourage you to set reminders?,,,
+#,Answer,%,Count
+1,Extremely effective,7.69%,3
+2,Very effective,10.26%,4
+3,Moderately effective,30.77%,12
+4,Slightly effective,30.77%,12
+5,Not effective at all,20.51%,8
+,Total,100%,39
+,,,
+"Q13 - You're task is to set a reminder (a timed alert message). Click the button you believe will set a reminder. If you do not know or are unsure, make your best guess.",,,
+Picture 2,,,
+,,,
+Q14 - How confident are you in your selection?,,,
+#,Answer,%,Count
+1,Extremely confident,5.71%,2
+2,Somewhat confident,42.86%,15
+3,Neither,11.43%,4
+4,Somewhat unconfident,37.14%,13
+5,Extremely unconfident,2.86%,1
+,Total,100%,35
+,,,
+Q15 - How difficult was it to locate the button?,,,
+#,Answer,%,Count
+1,Extremely easy,2.86%,1
+2,Somewhat easy,48.57%,17
+3,Neither,20.00%,7
+4,Somewhat difficult,22.86%,8
+5,Extremely difficult,5.71%,2
+,Total,100%,35
+,,,
+Q16 - Would you change it if you could?,,,
+#,Answer,%,Count
+1,"Yes, if so, how?",25.71%,9
+2,Maybe,48.57%,17
+3,No,25.71%,9
+,Total,100%,35
+,,,
+Q17 - Does the current location of the reminder button effectively encourage you to set reminders?,,,
+#,Answer,%,Count
+1,Extremely effective,2.86%,1
+2,Very effective,11.43%,4
+3,Moderately effective,48.57%,17
+4,Slightly effective,25.71%,9
+5,Not effective at all,11.43%,4
+,Total,100%,35
+,,,
+"Q21 - You're task is to set a reminder (a timed alert message).  Click the button you believe will set a reminder. If you do not know or are unsure, make your best guess.",,,
+Picture 3,,,
+,,,
+Q22 - How confident are you in your selection?,,,
+#,Answer,%,Count
+1,Extremely confident,37.84%,14
+2,Somewhat confident,40.54%,15
+3,Neither,8.11%,3
+4,Somewhat unconfident,10.81%,4
+5,Extremely unconfident,2.70%,1
+,Total,100%,37
+,,,
+Q23 - How difficult was it to locate the button?,,,
+#,Answer,%,Count
+1,Extremely easy,32.43%,12
+2,Somewhat easy,37.84%,14
+3,Neither,10.81%,4
+4,Somewhat difficult,18.92%,7
+5,Extremely difficult,0.00%,0
+,Total,100%,37
+,,,
+Q24 - Would you change it if you could?,,,
+#,Answer,%,Count
+1,"Yes, if so, how?",13.51%,5
+2,Maybe,29.73%,11
+3,No,56.76%,21
+,Total,100%,37
+,,,
+Q25 - Does the current location of the reminder button effectively encourage you to set reminders?,,,
+#,Answer,%,Count
+1,Extremely effective,18.92%,7
+2,Very effective,27.03%,10
+3,Moderately effective,29.73%,11
+4,Slightly effective,18.92%,7
+5,Not effective at all,5.41%,2
+,Total,100%,37
+,,,
+"Q26 - You're task is to set a reminder (a timed alert message). Click the button you believe will set a reminder. If you do not know or are unsure, make your best guess.",,,
+Picture 4,,,
+,,,
+Q27 - How confident are you in your selection?,,,
+#,Answer,%,Count
+1,Extremely confident,37.84%,14
+2,Somewhat confident,35.14%,13
+3,Neither,13.51%,5
+4,Somewhat unconfident,10.81%,4
+5,Extremely unconfident,2.70%,1
+,Total,100%,37
+,,,
+Q28 - How difficult was it to locate the button?,,,
+#,Answer,%,Count
+1,Extremely easy,24.32%,9
+2,Somewhat easy,40.54%,15
+3,Neither,18.92%,7
+4,Somewhat difficult,13.51%,5
+5,Extremely difficult,2.70%,1
+,Total,100%,37
+,,,
+Q29 - Would you change it if you could?,,,
+#,Answer,%,Count
+1,"Yes, if so, how?",25.00%,9
+2,Maybe,41.67%,15
+3,No,33.33%,12
+,Total,100%,36
+,,,
+Q30 - Does the current location of the reminder button effectively encourage you to set reminders?,,,
+#,Answer,%,Count
+1,Extremely effective,8.11%,3
+2,Very effective,29.73%,11
+3,Moderately effective,24.32%,9
+4,Slightly effective,24.32%,9
+5,Not effective at all,13.51%,5
+,Total,100%,37

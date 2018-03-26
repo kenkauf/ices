@@ -1,0 +1,36 @@
+html, body, ul, footer{
+      background-color: #EEEEEE;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      text-align: center;
+      list-style-type: none;
+}
+
+#top_nav {
+      text-align: right;
+}
+
+h1 {
+      color:#4CAF50;
+      font-size: 64px;
+      text-align: left;
+      margin-left: 5%;
+}
+
+h2 {
+      color:#4CAF50;
+      margin: 10px;
+}
+
+h3 {
+      color:#8BC34A;
+}
+
+.project_photo img {
+      width: 30%;
+}
+
+#projects {
+      width:100%;
+}
